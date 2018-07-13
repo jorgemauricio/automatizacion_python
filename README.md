@@ -21,3 +21,7 @@ se deben de instalar las siguientes librerías desde la terminal de comandos.
 * Basemap
 
 `conda install -c anaconda basemap`
+
+* Requests
+
+`conda install -c anaconda requests`
