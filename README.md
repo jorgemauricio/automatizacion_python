@@ -22,6 +22,7 @@ se deben de instalar las siguientes librerías desde la terminal de comandos.
 
 Normal              : `conda install -c anaconda basemap`
 Alta resolución     : `conda install -c conda-forge basemap-data-hires`
+
 * Requests
 
 `conda install -c anaconda requests`
