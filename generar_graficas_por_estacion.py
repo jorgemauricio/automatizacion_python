@@ -42,6 +42,7 @@ def main():
         # data frame temporal para guardar la información
         df_temporal = df.where(df['nombre'] == estacion).dropna()
 
+        # ciclo de información por variable y elemento
         for elemento in range(len(array_variables)):
 
             # generar una figura en blanco
